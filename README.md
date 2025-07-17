@@ -51,5 +51,7 @@ Este proyecto utiliza Python 3 y las siguientes librerías:
 Ver archivo [`requirements.txt`](./requirements.txt) para más detalles.
 
 **Repositorio desarrollado para la entrega de la Actividad 1 de Inteligencia Artificial - Semana 1 (UEES)**.
+
+
 **Autores:** David Francisco Alvarez,  Macerlo Xavier Castillo, Alejandro Sebastian Casto, Lady Anahi Garces,
 Daniela Estefania Pezantez, María Mercedes Vera.
