@@ -1,5 +1,4 @@
 # Actividad1_LabPractico_GoogleColab
-# Actividad 1 - Laboratorio Práctico en Google Colab
 
 ## Objetivo
 
