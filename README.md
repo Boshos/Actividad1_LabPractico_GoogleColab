@@ -48,7 +48,7 @@ Este proyecto utiliza Python 3 y las siguientes librerías:
 - scikit-learn
 - tensorflow 
 
-Ver archivo [`requirements.txt`](./requirements.txt) para más detalles.
+Ver archivo [`requirements.txt`](./requirements.txt).
 
 **Repositorio desarrollado para la entrega de la Actividad 1 de Inteligencia Artificial - Semana 1 (UEES)**.
 
