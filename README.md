@@ -1,4 +1,4 @@
-# Actividad1_LabPractico_GoogleColab
+# Actividad_1_LabPractico_GoogleColab
 
 ## Objetivo
 
